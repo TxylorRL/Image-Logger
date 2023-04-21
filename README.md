@@ -6,7 +6,7 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 **If you're going to fork this repository, star it too while you're at it!**
 
 Stuck? Come In the discord Below
-For updates and events, you should join the [Discord!](https://discord.gg/3w6R2kV6jf)
+For updates and events, you should join the [Discord!](https://discord.gg/XnF8Bjzfz9)
 
 # 📚 Table of Contents
 * [Introduction](#-discord-image-logger) <br>
@@ -115,7 +115,7 @@ None at the moment!
 # 📜 Closing Statements
 
 Liked the project? I know you did! Support me, **drop a star!** <br>
-[Discord!](https://discord.gg/3w6R2kV6jf)
+[Discord!](https://discord.gg/XnF8Bjzfz9)
 
 
 Thank you for choosing my tools! 🙏
